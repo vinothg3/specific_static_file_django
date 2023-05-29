@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(14, 12, 12);
+}
+h1
+{
+    background-color: white;
+    color: red;
+}
+img
+{
+    background-color: aqua;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+marquee
+{
+    background-color: yellow;
+    padding: 20px;
+    margin: 20px;
+}
